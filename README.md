@@ -1,4 +1,4 @@
-##My dmenu fork
+## My dmenu fork
 
 
 dmenu - dynamic menu
